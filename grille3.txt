@@ -1,0 +1,22 @@
+20 20
+MMMMMMMMMMMMMMMMMMMM
+MP QQQQQQQQ        M
+M         Q        M
+M Q QQQQ Q QQQQ Q  M
+M Q    Q   Q    Q  M
+M Q QQ QQQQQQ Q Q  M
+M Q Q        Q Q   M
+M Q Q QQQQQQ Q Q   M
+M Q Q      Q Q Q   M
+M Q Q QQQQ Q Q Q   M
+M Q Q Q    Q Q Q   M
+M Q Q Q QQQQ Q Q   M
+M Q Q Q      Q Q   M
+M Q Q Q QQQQ Q Q   M
+M Q Q Q      Q Q   M
+M Q Q Q QQQQ Q Q   M
+M Q Q Q      Q Q   M
+M Q Q QQQQQQ Q Q   M
+M                B M
+MMMMMMMMMMMMMMMMMMMM
+
